@@ -1,6 +1,2 @@
-echo # datasciencecoursera >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/lavjb55/datasciencecoursera.git
-git push -u origin master
+Edit Changes to My Read ME file after not selecting from the list from install
+BLavery 7102015
